@@ -40,7 +40,7 @@ h6 {
   margin: 1.5rem;
   padding: 0.9rem;
   background-color: white;
-  height: 30.5rem;
+  /* height: 30.5rem; */
   width: 20rem;
 
   display: flex;
@@ -67,7 +67,7 @@ h6 {
 .prompt {
   color: var(--clr-neutral-dark);
   font-family: var(--font-primary);
-  font-size: 1.35rem;
+  font-size: 1.26rem;
 
   font-weight: 700;
   text-shadow: 1px 0 var(--clr-neutral-dark);
@@ -79,5 +79,5 @@ h6 {
 .instructions {
   font-family: var(--font-primary);
   color: var(--clr-neutral-medium);
-  margin: 0rem 1rem 0rem 1rem;
+  margin: 0rem 1rem 1rem 1rem;
 }
