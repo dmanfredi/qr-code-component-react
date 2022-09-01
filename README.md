@@ -1,3 +1,3 @@
 ## QR Code Component
 
-Lorem Ipsum.
+Repo for the Front End Mentor project 'qr-code-component'.
